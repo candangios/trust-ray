@@ -8,7 +8,7 @@
     },
     "RPC_SERVER": {
       "description": "RPC URL of your blockchain node.",
-      "value": "testnet.tomochain.com"
+      "value": "https://testnet.tomochain.com"
     }
   }
 }
