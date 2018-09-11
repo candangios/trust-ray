@@ -1,6 +1,6 @@
 {
     "MONGO": {
-        "URI": "mongodb://localhost:27017/trust-wallet"
+        "URI": "mongodb://localhost:27017/tomochain"
     },
     "RPC_SERVER": "https://testnet.tomochain.com",
     "NETWORK_SYMBOL": "ETH",
